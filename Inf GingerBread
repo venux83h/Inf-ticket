@@ -1,5 +1,0 @@
-return {
-    Chance = 100;
-    RewardType = "Tickets";
-    RewardValue = 10000000000000000;
-}

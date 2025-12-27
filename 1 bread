@@ -1,0 +1,252 @@
+return {
+    Name = "Winter Holidays Event";
+    Desc = "'Tis be the season to be jolly! Collect gingerbread cookies to purchase exclusive items during this event! Happy Holidays!";
+    CurrencyInfo = {
+        CurrencyImage = "rbxassetid://15857481873";
+        CurrencyImageColor = Color3.fromRGB(255, 255, 255);
+        CurrencyType = "Cookie";
+        CurrencyTypePlural = "Cookies";
+        CurrencyColor = Color3.fromRGB(255, 255, 255);
+    };
+    RewardInfo = {
+        CurrencyRewardMaxSurvival = 8;
+        CurrencyRewardThreshold = {0, 6};
+    };
+    TickStarted = 1766181982;
+    OSTimeStarted = nil;
+    EventShopItems = {{}};
+    ReleaseDate = {
+        Calendar = "12/19/25";
+        Time = "1:00";
+    };
+    EndDate = {
+        Calendar = "1/16/26";
+        Time = "24:00";
+    };
+    ExchangeEndDate = {
+        Calendar = "1/30/26";
+        Time = "24:00";
+    };
+    Maps = {"City", "Hokkaido", "JollyVillage", "NemosRest", "WinterfallKingdom", "Cliffshire", "FestiveGathering", "FestiveWorkshop", "FrostlightHollow", "FrostySummit", "WinterPalace"};
+    Rewards = {{
+        AccessibleTime = "0d";
+        Items = {{
+            Name = "SealGift";
+            Price = 20;
+        }, {
+            Name = "SnowmanCompass";
+            Price = 20;
+        }, {
+            Name = "HotChocolateDrink";
+            Price = 30;
+        }, {
+            Name = "SnowGlobeLight";
+            Price = 40;
+        }, {
+            Name = "SmokeOrnabomb";
+            Price = 40;
+        }, {
+            Name = "IcyTeleporter";
+            Price = 40;
+        }, {
+            Name = "SnowmanBarrier";
+            Price = 60;
+        }, {
+            Name = "GingerbreadTag";
+            Price = 60;
+        }, {
+            Name = "RelentlessBlizzard";
+            Price = 120;
+        }};
+        ReleaseTime = 0;
+    }, {
+        AccessibleTime = "0.5d";
+        OwnedRequirementFromLastRewardList = 4;
+        Items = {{
+            Name = "SnowmanRadio";
+            Price = 20;
+        }, {
+            Name = "SnowmanBomb";
+            Price = 30;
+        }, {
+            Name = "IcySpeedPad";
+            Price = 40;
+        }, {
+            Name = "SantasRevivalSack";
+            Price = 40;
+        }, {
+            Name = "SnowmanJumpPad";
+            Price = 50;
+        }, {
+            Name = "AviatorGoggles";
+            Price = 70;
+        }, {
+            Name = "CozyChair";
+            Price = 100;
+        }, {
+            Name = "MysticalTree";
+            Price = 130;
+        }};
+        ReleaseTime = 0;
+    }, {
+        AccessibleTime = "1d";
+        OwnedRequirementFromLastRewardList = 4;
+        Items = {{
+            Name = "FestiveKittySensor";
+            Price = 30;
+        }, {
+            Name = "SantasRadar";
+            Price = 30;
+        }, {
+            Name = "NordicFloodlight";
+            Price = 40;
+        }, {
+            Name = "NordicDecoy";
+            Price = 40;
+        }, {
+            Name = "BoboBuddyLantern";
+            Price = 50;
+        }, {
+            Name = "SantaBoboTag";
+            Price = 60;
+        }, {
+            Name = "GingerbreadBarrier";
+            Price = 80;
+        }, {
+            Name = "RockingHorse";
+            Price = 100;
+        }, {
+            Name = "KrampusCarry";
+            Price = 200;
+        }};
+        ReleaseTime = 0;
+    }, {
+        AccessibleTime = "1.5d";
+        OwnedRequirementFromLastRewardList = 4;
+        Items = {{
+            Name = "SantasRadio";
+            Price = 30;
+        }, {
+            Name = "HeavenlyTimer";
+            Price = 40;
+        }, {
+            Name = "NordicLantern";
+            Price = 50;
+        }, {
+            Name = "SnowlauncherGrapple";
+            Price = 50;
+        }, {
+            Name = "SnowmanLight";
+            Price = 60;
+        }, {
+            Name = "SleighSpeedpad";
+            Price = 60;
+        }, {
+            Name = "AmethystAurora";
+            Price = 200;
+        }, {
+            Name = "BorealisAurora";
+            Price = 200;
+        }, {
+            Name = "PepperimentAurora";
+            Price = 200;
+        }, {
+            Name = "WinterMelody";
+            Price = 250;
+        }};
+        ReleaseTime = 0;
+    }, {
+        AccessibleTime = "2d";
+        OwnedRequirementFromLastRewardList = 4;
+        Items = {{
+            Name = "HeavenlySmokeGrenade";
+            Price = 50;
+        }, {
+            Name = "HeavenlyReviveOrb";
+            Price = 50;
+        }, {
+            Name = "NordicBeverage";
+            Price = 50;
+        }, {
+            Name = "HeavenlyFloodlight";
+            Price = 60;
+        }, {
+            Name = "ChristmasTreeTag";
+            Price = 60;
+        }, {
+            Name = "SkiSpree";
+            Price = 200;
+        }, {
+            Name = "SnowflakeAegis";
+            Price = 250;
+        }, {
+            Name = "NorthernStarRadiance";
+            Price = 300;
+        }, {
+            Name = "FrostborneSteedCarry";
+            Price = 400;
+        }};
+        ReleaseTime = 0;
+    }, {
+        AccessibleTime = "2.5d";
+        OwnedRequirementFromLastRewardList = 4;
+        Items = {{
+            Name = "HeavenlySpeedpad";
+            Price = 50;
+        }, {
+            Name = "HeavenlyJumpPad";
+            Price = 50;
+        }, {
+            Name = "HeavenlyLantern";
+            Price = 60;
+        }, {
+            Name = "NordicBreacher";
+            Price = 80;
+        }, {
+            Name = "HeavenlyBarrier";
+            Price = 120;
+        }, {
+            Name = "GlacialEntrails";
+            Price = 250;
+        }, {
+            Name = "HeavenlyCrown";
+            Price = 400;
+        }, {
+            Name = "FrostDrake";
+            Price = 500;
+        }};
+        ReleaseTime = 0;
+    }, {
+        AccessibleTime = "5.5d";
+        OwnedRequirementFromLastRewardList = 1;
+        Items = {{
+            Name = "CatCampfire";
+            Price = 200;
+        }, {
+            Name = "PeppermintGrapple";
+            Price = 300;
+        }, {
+            Name = "ToyTrainRide";
+            Price = 300;
+        }, {
+            Name = "Marching";
+            Price = 500;
+        }, {
+            Name = "SnowmobileCruise";
+            Price = 500;
+        }, {
+            Name = "FrigidCrown";
+            Price = 600;
+        }, {
+            Name = "JollyCrown";
+            Price = 600;
+        }, {
+            Name = "EclipseCrown";
+            Price = 600;
+        }, {
+            Name = "RockinStride";
+            Price = 6767676767676767;
+        }};
+        ReleaseTime = 0;
+    }};
+}
