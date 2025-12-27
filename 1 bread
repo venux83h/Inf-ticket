@@ -32,31 +32,31 @@ return {
         AccessibleTime = "0d";
         Items = {{
             Name = "SealGift";
-            Price = 20;
+            Price = 1;
         }, {
             Name = "SnowmanCompass";
-            Price = 20;
+            Price = 1;
         }, {
             Name = "HotChocolateDrink";
-            Price = 30;
+            Price = 1;
         }, {
             Name = "SnowGlobeLight";
-            Price = 40;
+            Price = 1;
         }, {
             Name = "SmokeOrnabomb";
-            Price = 40;
+            Price = 1;
         }, {
             Name = "IcyTeleporter";
-            Price = 40;
+            Price = 1;
         }, {
             Name = "SnowmanBarrier";
-            Price = 60;
+            Price = 1;
         }, {
             Name = "GingerbreadTag";
-            Price = 60;
+            Price = 1;
         }, {
             Name = "RelentlessBlizzard";
-            Price = 120;
+            Price = 1;
         }};
         ReleaseTime = 0;
     }, {
@@ -64,28 +64,28 @@ return {
         OwnedRequirementFromLastRewardList = 4;
         Items = {{
             Name = "SnowmanRadio";
-            Price = 20;
+            Price = 1;
         }, {
             Name = "SnowmanBomb";
-            Price = 30;
+            Price = 1;
         }, {
             Name = "IcySpeedPad";
-            Price = 40;
+            Price = 1;
         }, {
             Name = "SantasRevivalSack";
-            Price = 40;
+            Price = 1;
         }, {
             Name = "SnowmanJumpPad";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "AviatorGoggles";
-            Price = 70;
+            Price = 1;
         }, {
             Name = "CozyChair";
-            Price = 100;
+            Price = 1;
         }, {
             Name = "MysticalTree";
-            Price = 130;
+            Price = 1;
         }};
         ReleaseTime = 0;
     }, {
@@ -93,31 +93,31 @@ return {
         OwnedRequirementFromLastRewardList = 4;
         Items = {{
             Name = "FestiveKittySensor";
-            Price = 30;
+            Price = 1;
         }, {
             Name = "SantasRadar";
-            Price = 30;
+            Price = 1;
         }, {
             Name = "NordicFloodlight";
-            Price = 40;
+            Price = 1;
         }, {
             Name = "NordicDecoy";
-            Price = 40;
+            Price = 1;
         }, {
             Name = "BoboBuddyLantern";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "SantaBoboTag";
-            Price = 60;
+            Price = 1;
         }, {
             Name = "GingerbreadBarrier";
-            Price = 80;
+            Price = 1;
         }, {
             Name = "RockingHorse";
-            Price = 100;
+            Price = 1;
         }, {
             Name = "KrampusCarry";
-            Price = 200;
+            Price = 1;
         }};
         ReleaseTime = 0;
     }, {
@@ -125,34 +125,34 @@ return {
         OwnedRequirementFromLastRewardList = 4;
         Items = {{
             Name = "SantasRadio";
-            Price = 30;
+            Price = 1;
         }, {
             Name = "HeavenlyTimer";
-            Price = 40;
+            Price = 1;
         }, {
             Name = "NordicLantern";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "SnowlauncherGrapple";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "SnowmanLight";
-            Price = 60;
+            Price = 1;
         }, {
             Name = "SleighSpeedpad";
-            Price = 60;
+            Price = 1;
         }, {
             Name = "AmethystAurora";
-            Price = 200;
+            Price = 1;
         }, {
             Name = "BorealisAurora";
-            Price = 200;
+            Price = 1;
         }, {
             Name = "PepperimentAurora";
-            Price = 200;
+            Price = 1;
         }, {
             Name = "WinterMelody";
-            Price = 250;
+            Price = 1;
         }};
         ReleaseTime = 0;
     }, {
@@ -160,31 +160,31 @@ return {
         OwnedRequirementFromLastRewardList = 4;
         Items = {{
             Name = "HeavenlySmokeGrenade";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "HeavenlyReviveOrb";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "NordicBeverage";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "HeavenlyFloodlight";
-            Price = 60;
+            Price = 1;
         }, {
             Name = "ChristmasTreeTag";
-            Price = 60;
+            Price = 1;
         }, {
             Name = "SkiSpree";
-            Price = 200;
+            Price = 1;
         }, {
             Name = "SnowflakeAegis";
-            Price = 250;
+            Price = 1;
         }, {
             Name = "NorthernStarRadiance";
-            Price = 300;
+            Price = 1;
         }, {
             Name = "FrostborneSteedCarry";
-            Price = 400;
+            Price = 1;
         }};
         ReleaseTime = 0;
     }, {
@@ -192,28 +192,28 @@ return {
         OwnedRequirementFromLastRewardList = 4;
         Items = {{
             Name = "HeavenlySpeedpad";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "HeavenlyJumpPad";
-            Price = 50;
+            Price = 1;
         }, {
             Name = "HeavenlyLantern";
-            Price = 60;
+            Price = 1;
         }, {
             Name = "NordicBreacher";
-            Price = 80;
+            Price = 1;
         }, {
             Name = "HeavenlyBarrier";
-            Price = 120;
+            Price = 1;
         }, {
             Name = "GlacialEntrails";
-            Price = 250;
+            Price = 1;
         }, {
             Name = "HeavenlyCrown";
-            Price = 400;
+            Price = 1;
         }, {
             Name = "FrostDrake";
-            Price = 500;
+            Price = 1;
         }};
         ReleaseTime = 0;
     }, {
@@ -221,31 +221,31 @@ return {
         OwnedRequirementFromLastRewardList = 1;
         Items = {{
             Name = "CatCampfire";
-            Price = 200;
+            Price = 1;
         }, {
             Name = "PeppermintGrapple";
-            Price = 300;
+            Price = 1;
         }, {
             Name = "ToyTrainRide";
-            Price = 300;
+            Price = 1;
         }, {
             Name = "Marching";
-            Price = 500;
+            Price = 1;
         }, {
             Name = "SnowmobileCruise";
-            Price = 500;
+            Price = 1;
         }, {
             Name = "FrigidCrown";
-            Price = 600;
+            Price = 1;
         }, {
             Name = "JollyCrown";
-            Price = 600;
+            Price = 1;
         }, {
             Name = "EclipseCrown";
-            Price = 600;
+            Price = 1;
         }, {
             Name = "RockinStride";
-            Price = 6767676767676767;
+            Price = 1;
         }};
         ReleaseTime = 0;
     }};
